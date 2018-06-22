@@ -7,7 +7,7 @@ Some my custom cinema 4d scripts
 
 Convert standard/arnold/octane lights to redshift.
 
-![image](https://github.com/ArnoChenFx/C4D-Scripts/blob/master/LightConvert.gif)
+![image](https://github.com/ArnoChenFx/C4D-Scripts/blob/master/RS Light Convert.gif)
 
 
 =======================================================================
